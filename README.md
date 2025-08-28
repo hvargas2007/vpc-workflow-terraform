@@ -1,4 +1,4 @@
-# Módulo VPC
+#  Módulo VPC
 
 Este módulo crea una VPC de AWS completa con subnets públicas/privadas, NAT Gateways, Internet Gateway y opcionalmente se conecta a un Transit Gateway.
 
